@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,iptvtools_1
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+#EXTINF:-1,iptvtools_2
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_1000/index.m3u8
+#EXTINF:-1,iptvtools_3
+	
